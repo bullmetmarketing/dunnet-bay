@@ -142,6 +142,7 @@ article {
 }
 section.br-header{
   height: 65vh;
+  position: relative;
   background-position: center;
   background-image: url("img/dunnet-bay-distillers.jpg");
   background-size: cover;
